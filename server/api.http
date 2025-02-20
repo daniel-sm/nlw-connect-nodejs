@@ -5,3 +5,9 @@ Content-Type: application/json
   "name": "Daniel Santos",
   "email": "daniel@email.com"
 }
+
+###
+
+GET http://localhost:3333/invites/123
+
+###
