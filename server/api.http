@@ -11,3 +11,7 @@ Content-Type: application/json
 GET http://localhost:3333/invites/123
 
 ###
+
+GET http://localhost:3333/subscribers/123/ranking/clicks
+
+###
