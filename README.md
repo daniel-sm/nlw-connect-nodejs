@@ -1,6 +1,7 @@
 # Referral System
 
-This repository contains a referral system built with **Node.js**, **TypeScript**, **PostgreSQL**, and **Redis**.  The project allows subscribing to events, tracking invites and ranking users.
+This repository contains a referral system built with **Node.js**, **TypeScript**, **PostgreSQL**, and **Redis**. 
+The project allows subscribing to events, tracking invites and ranking users.
 
 ## 🚀 Technologies
 
@@ -66,7 +67,7 @@ pnpm exec drizzle-kit migrate
 7. Start the server:
 
 ```bash
-pnpm dev
+pnpm run dev
 ```
 
 The API will be available at http://localhost:3333.
